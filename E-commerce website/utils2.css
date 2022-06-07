@@ -1,0 +1,8 @@
+.flex-all-center{
+    /* height: 50px; */
+    background-color: blueviolet;
+    color: white;
+    align-items: center;
+display: flex;
+justify-content: center;
+}

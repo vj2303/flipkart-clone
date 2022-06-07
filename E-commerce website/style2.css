@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 50px;
+    
+}
+
+nav{
+    background-color: blueviolet;
+    height: 50px;
+    color: white;
+    align-items: center;
+    display: flex;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    color: white;
+    padding: 12px 184px;
+
+}
+nav ul li{
+    padding: 13px 35px;
+}
+
+nav ul li a{
+    color: white;
+}
+
+.logo img{
+    position: absolute;
+    height: 35px;
+    left: 38px;
+    top: 13px;
+
+}
+
+input{
+    border-radius: 5px;
+width: 17vw;
+height: 30px;
+padding: 14px;
+}
+
+.btn{
+
+    height: 30px;
+border-radius: 5px;
+width: 70px;
+}
+
+footer{
+    height: 12vh;
+}
+
+.container{
+    min-height: calc(80vh);
+}
+
+.slider img{
+    margin: 12px auto 12px 166px;
+    width: 80vw;
+    overflow: hidden;
+}
+
+.lines{
+    font-size: 20px;
+}
+
+.card-item{
+    margin: 12px 30px;
+}
+
+h2{
+    margin: 0 12px;
+}
+
+.cards{
+    display: flex;
+}
